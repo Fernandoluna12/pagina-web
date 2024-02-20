@@ -1,0 +1,14 @@
+.imagen{
+    width: 150px;
+    border-radius: 50px;
+}
+.imagen2{
+    width: 300px;
+    border-radius: 50px;
+}
+.borde{
+    border-style:groove;
+}
+.borde1{
+    border-style:solid;
+}
